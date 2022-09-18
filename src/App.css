@@ -1,0 +1,40 @@
+
+button {
+   background-color: rgb(102,77,229);
+   color: white;
+   border-width: 0px;
+   border-radius: 4px;
+   padding: 0.8rem;
+   min-width: 23rem;
+}
+input {
+   padding: 0.7rem;
+   border-radius: 4px;
+   border:1px solid lightgray;
+   margin-bottom: 1rem;
+}
+label {
+   margin-bottom: 5px;
+   font-size: 0.8rem;
+   font-weight: 600;
+}
+.app {
+   margin-top: 5rem;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+.sub-heading {
+   color: grey;
+   margin-top: 0px;
+   margin-bottom: 3rem;
+}
+.heading {
+   font-weight: 700;
+   font-size: 2rem;
+   margin-bottom: 10px;
+   margin-top: 0rem;
+}
+.icon-color {
+   color: rgb(102,77,229);
+}

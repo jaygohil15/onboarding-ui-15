@@ -1,0 +1,18 @@
+
+.step-counter-container {
+   display: flex;
+   margin: 2rem;
+}
+
+.step {
+   padding: 1rem 1rem;
+   color: gray;
+   border-radius: 50%;
+   border: 1px solid lightgray;
+}
+.line {
+   margin-top: 1.6rem;
+   height: 1px;
+   background-color: lightgray;
+   width: 4rem;
+}

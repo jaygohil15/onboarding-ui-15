@@ -1,0 +1,17 @@
+
+.group-container {
+   display: flex;
+}
+.group-container > div {
+   border: 1px solid lightgray;
+   border-radius: 4px;
+   padding: 1.3rem;
+   max-width: 9rem;
+   margin: 2rem 1.5rem;
+}
+.group-container > div:hover {
+   cursor: pointer;
+}
+.group-container-heading {
+   font-weight: 600;
+}
